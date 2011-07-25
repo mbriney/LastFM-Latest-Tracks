@@ -1,0 +1,18 @@
+LastFM Latest Tracks
+by Matt Briney
+
+-----------------------------------------
+Licensed under GPLv3
+
+You are welcome to copy this code but
+please fork the repository so we can
+keep track of changes!
+-----------------------------------------
+
+This script takes the latest 200 tracks you have scrobbled on LastFM and displays them along with their cover art.
+
+
+TO INSTALL
+- Download the source code
+- Edit lastfm.php and enter your LastFM username
+- Launch lastfm.php in your browser or embed in iframe
